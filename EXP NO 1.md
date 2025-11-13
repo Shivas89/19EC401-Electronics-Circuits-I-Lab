@@ -2,6 +2,7 @@
 
 <p align="center">
 "REGULATED POWER SUPPLY"
+</p>
 
 
 
@@ -23,7 +24,6 @@
 
 
 <img width="425" height="177" alt="image" src="https://github.com/user-attachments/assets/3a5801fc-23eb-4b22-99ee-6d27997f3ed8" />
-
 
 
 **ATTACH TABULATION**
