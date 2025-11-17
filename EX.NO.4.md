@@ -1,7 +1,7 @@
 **EXP.NO:04**
 <p align="center">
 FREQUENCY RESPONSE OF COMMON COLLECTOR AMPLIFIER
-</p>
+</p> 
 
 
 <img width="625" height="717" alt="image" src="https://github.com/user-attachments/assets/787469bf-a136-4aaa-9d89-39dcd5227b9b" />
