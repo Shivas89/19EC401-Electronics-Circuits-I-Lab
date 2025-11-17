@@ -2,7 +2,7 @@
 <p align="center">
 FREQUENCY RESPONSE OF COMMON BASE AMPLIFIER
 </p>
-
+ 
 
 <img width="683" height="789" alt="image" src="https://github.com/user-attachments/assets/2bca05aa-3abb-4ada-bcf3-ce0c99cbb3d0" />
 
