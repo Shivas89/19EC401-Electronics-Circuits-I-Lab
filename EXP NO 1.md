@@ -25,11 +25,15 @@ REGULATED POWER SUPPLY
 
 
 **ATTACH TABULATION**
+<img width="1062" height="1280" alt="image" src="https://github.com/user-attachments/assets/df0cee66-2396-4a80-b7f5-511d9a7eb94d" />
+
 
 **ATTACH GRAPH**
 
-<img width="572" height="334" alt="image" src="https://github.com/user-attachments/assets/b4206406-fdb7-44de-8fc8-ce6d793d27fd" />
+<img width="996" height="1280" alt="image" src="https://github.com/user-attachments/assets/010b1550-c90a-4f8a-9ed4-fa85f4f6d5c8" />
+
 
 **RESULT**
 
-<img width="564" height="177" alt="image" src="https://github.com/user-attachments/assets/2b077c46-a900-4d55-839e-394745db61a8" />
+<img width="702" height="1280" alt="image" src="https://github.com/user-attachments/assets/35f148f7-e3f5-4c50-bb77-f2c24d8b7f7a" />
+
